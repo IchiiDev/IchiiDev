@@ -4,7 +4,7 @@ Hi, I'm Ichii, french self taught student for programing languages such as Java 
 ## How to contact me
 <img src="https://simpleicons.org/icons/discord.svg" height="15px"> Discord: Ichii#5999
 
-<img src="https://simpleicons.org/icons/gmail.svg" height=15px> E-Mail: ichii@discord.fr
+<img src="https://simpleicons.org/icons/gmail.svg" height=15px> E-Mail: ichii@discord.fr || ichii@hypesquad.events
 
 ## Skills
 ### Node.JS
