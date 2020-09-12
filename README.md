@@ -1,4 +1,4 @@
-# IchiiSama
+# IchiiDev
 Hi, I'm Ichii, french self taught student for programing languages such as Java & JavaScript. Currently contributor to the [Discord FR](https://github.com/discordfr), [Entasia](https://github.com/EntasiaOfficiel) & [WyvernTeam](https://github.com/WyvernTeam) organizations, I'm working on Minecraft plugins and Discord bots on my free time. I'm not a good designer so I base all of my skills on back-end dev for the moment and thats what I'm actively learning.
 
 ## How to contact me
