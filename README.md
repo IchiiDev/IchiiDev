@@ -5,7 +5,9 @@ Hi, I'm Ichii, french self taught student for programing languages such as Java 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IchiiDev)
 
 ## Profile
-[![](https://i.discord.fr/Vh6.png)](https://github.com/IchiiDev/profile)
+<div align="center">
+   <a href="https://github.com/IchiiDev/profile" target="_blank"><img src="https://i.discord.fr/Vh6.png" align="center" /></a>
+</div>
 
 ## How to contact me
 - Discord: Ichii#5999 *I currently have my DMs & Friend Requests closed but you can still mention me if needed.*
