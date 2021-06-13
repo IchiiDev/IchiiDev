@@ -4,6 +4,8 @@ Hi, I'm Ichii, french self taught student for programing languages such as Java 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IchiiDev)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IchiiDev)
 
+*One month streak woooooo*
+
 ## Profile
 <div align="center">
    <a href="https://github.com/IchiiDev/profile" target="_blank"><img src="https://i.discord.fr/Vh6.png" align="center" /></a>
