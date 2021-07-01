@@ -15,3 +15,5 @@ Hi, I'm Ichii, french self taught student for programing languages such as Java 
 - Discord: Ichii#5999 *I currently have my DMs & Friend Requests closed but you can still mention me if needed.*
 
 - E-Mail: ichii@discord.fr | contact@ichiidev.xyz
+
+- Twitter: [@IchiiDev](https://twitter.com/IchiiDev)
