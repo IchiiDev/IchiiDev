@@ -8,7 +8,7 @@ Hi, I'm Ichii, french self taught student for programing languages such as Java 
 
 ## Profile
 <div align="center">
-   <a href="https://github.com/IchiiDev/profile" target="_blank"><img src="https://i.discord.fr/Vh6.png" align="center" /></a>
+   <a href="https://github.com/IchiiDev/profile" target="_blank"><img src="https://i.discord.fr/XCm6.png" align="center" /></a>
 </div>
 
 ## How to contact me
